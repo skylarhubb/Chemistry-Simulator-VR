@@ -20,24 +20,4 @@ YouTube link:
 https://youtu.be/HoJ8FWXEuVA 
 External Resources
 This list contains references to all of the external resources used within our project.
-Assets
-Free Laboratory Pack* (link)
-Plastic Trash Bins* (link)
-Three Signs* (link)
-Low Poly Metal Rack* (link)
-Fire Extinguisher (link)
-Metal Door (link)
-RPG Foods and Drinks Pack (link)
-Plates, Bowls, and Mugs Pack (link)
-Sink (link)
-Particles
-Obi Fluids (link)
-Low Poly Particle Pack* (link)
-Sound Effects
-Sound effects (i.e., the sounds attached to the glass flasks, plastic bottles, etc.) were all found on freesound.org
-External Programs Used
-Photoshop, for editing and creating materials when needed (i.e., the labels for the chemicals)
-Canva, for creating whiteboards
-Brooks Center recording booth, for recording voice acting lines
-Pro Tools, for editing and mixing voice acting lines
-*Some or all contents of these packages were used as base, and then changed or edited by a member of the group to more directly fit our needs.
+https://docs.google.com/document/d/1Sr1h0YCh1EuYF2fqdrLiC5ya2JnFJbxgFNlsQi9Relc/edit?usp=sharing 
