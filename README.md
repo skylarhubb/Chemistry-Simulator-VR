@@ -4,7 +4,7 @@ A virtual reality game simulating a chemistry lab, following three different exp
 Virtual Simulator for Chemical Reactions (Chemistry Simulator)
 Skylar Hubbarth, Emma Scalabrino, Alex Pendris, Matthew Yang
 
-![](https://youtu.be/HoJ8FWXEuVA?si=hYmCtEdgtIuLnX9H)
+
 
 ## Project Download
 
@@ -28,6 +28,17 @@ https://drive.google.com/file/d/1tRsm92-oGHrBMTWh2Zq3VWWumQjXQ-XL/view?usp=share
 #### YouTube link: 
 
 https://youtu.be/HoJ8FWXEuVA 
+
+## Screenshots
+![image](https://github.com/skylarhubb/Chemistry-Simulator-VR/assets/114503026/be01c2f4-dc35-408b-900e-89db89663059)
+
+![image](https://github.com/skylarhubb/Chemistry-Simulator-VR/assets/114503026/0a0d2d7d-8c18-44ad-8df8-e0b573886298)
+
+![image](https://github.com/skylarhubb/Chemistry-Simulator-VR/assets/114503026/91695479-23de-431a-98b9-6316a9c95402)
+
+![image](https://github.com/skylarhubb/Chemistry-Simulator-VR/assets/114503026/32b7a8e7-c44d-42dd-8969-d7af1a03224a)
+
+![image](https://github.com/skylarhubb/Chemistry-Simulator-VR/assets/114503026/7a880030-b32a-4461-921a-f71a9e230094)
 
 ## External Resources
 
